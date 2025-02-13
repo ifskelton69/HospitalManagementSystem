@@ -17,40 +17,34 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/hospital-management-system.git
+   git clone https://github.com/ifskelton69/hospital-management-system.git
    cd hospital-management-system
    ```
 2. Install dependencies:
    ```sh
    pip install -r requirements.txt
    ```
-3. Configure the database:
-   - Update the database connection settings in `config.py`.
-   - Run database migrations if applicable.
-
 ## Usage
 1. Start the application:
    ```sh
-   python main.py
+   py_mp.py
    ```
 2. Access the system via the provided UI or terminal interface.
 
 ## Example Output
 ```
-Welcome to the Hospital Management System
-1. Register Patient
-2. Schedule Appointment
-3. View Billing
-4. Exit
+       ================================
+           Welcome To CityHospital
+        ================================
+        1. Sign In
+        2. Registration
+        3. Exit
+        
 Enter your choice:
 ```
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+[Aditya birajdar](https://github.com/ifskelton69)
 
